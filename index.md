@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Welcome to Kamstrup Málaga !
 
 In this repository we're going to upload the materials done in the meetups , tutorials or proof of concepts done by Kamstrup's developers.
