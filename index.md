@@ -28,13 +28,13 @@ We'll be adding more info about this event every month and here we have official
 
 ---------
 
-###  Docker with dotnetCore and Jmeter (January)
+###  Docker with dotnetCore and Jmeter (January 2019)
 In this [meetup](https://www.meetup.com/es-ES/Kamstrup-Malaga/events/256775155/) [Felipe Cruz](https://twitter.com/felipecruz) and [Jesús Estévez](https://twitter.com/jecaestevez) will  share how you can build a .NET Core application running in Docker together with some Web API testing using Apache JMeter (running in Docker too!).  
 In this [GitHub repository](https://github.com/kamstrupmalagameetups/DockerDotnetCoreJmeter) you can find the source code and here we have the [slides](https://slides.com/jecaestevez/docker-with-dotnet-core-and-jmeter/live#/)
 
 ---------
 
-###  A high level overview of Cosmos DB ( November)
+###  A high level overview of Cosmos DB (November 2018)
 [Jesús](https://twitter.com/jecaestevez) and [Antonio J. Dios](https://www.linkedin.com/in/antoniojdios/) shown in [this Meetup](https://www.meetup.com/Kamstrup-Malaga/events/255856375/) about a high level overview about the distributed database Cosmos DB and tips learn from the professional experience at Kamstrup Málaga and here we have the  [Slides](https://slides.com/jecaestevez/cosmosdb/fullscreen)
 
 ## Developers
